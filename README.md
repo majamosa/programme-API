@@ -1,4 +1,5 @@
 # programme-API
+I DID USE app.MapOpenAI because when you use .net 8.0.0
 i have a proble connecting my Api 
 my localhost 7298 does not work well ("becuse of not using AI I USED PEOPLE ON YOUTUBE PEOPLE LINK "BROCODE")
 Line 1: # CMCS - This is Title of your project
