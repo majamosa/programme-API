@@ -1,4 +1,5 @@
 # programme-API
+i did not use "views" folder why becuse of i thick viewws is for razor etc..... 
 I DID USE app.MapOpenAI because when you use .net 8.0.0
 i have a proble connecting my Api 
 my localhost 7298 does not work well ("becuse of not using AI I USED PEOPLE ON YOUTUBE PEOPLE LINK "BROCODE")
