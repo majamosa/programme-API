@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CMCS.TESTS/CMCS.TESTS.csproj" Id="c28ac8d4-6cba-4d37-81d7-1daa27d88c02" />
+  <Project Path="CMCS.csproj" />
+</Solution>
